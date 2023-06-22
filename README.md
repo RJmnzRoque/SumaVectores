@@ -1,12 +1,12 @@
 # SumaVectores
 Calculadora que puede sumar N vectores bidimensionales en su forma de componente vectorial y representar su vector resultante en una cuadricula de 600px*600px
 
-#Problema
+# Problema
 
 Una persona maneja un automovil siguiendo este patron 10 km al sur, luego 4 km al este y finalmente 15 km al norte.
 ¿Qué distancia y en que dirección debera volar una avioneta en línea recta para llegar al mismo punto final?
 
-#Solución del problema
+# Solución del problema
 
 Usando la calculadora podemos calcular el vector posición usando sus movimientos, interprentando asi su primer movimiento como el vector (0)i + (-10)j, el segundo vector como (4)i + (0)j y finalmente el tercer vector como (0)i + (15)j.
 
