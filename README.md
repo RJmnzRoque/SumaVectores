@@ -26,3 +26,14 @@ Dandonos como resultado el vector (4)i + (5)j con magnitud de 6.40 y dirección 
 ![grafica](salida1.png)
 
 Este resultado nos indica que la avioneta deberá volar 6.4 km con un ángulo de 51.34 grados sobre el eje horizontal positivo, que en este caso seria el este.
+
+
+
+### Ejecución del programa
+
+En esta ocasión el programa fue desarrollado n Dev C, despues de completar la instalación siguiendo las instrucciones del siguiente [video](https://www.youtube.com/watch?v=-xh2P74myPE).
+Posteriormente deberemos descargar la carpeta SumaVectores y ejecutar el proyecto con el nombre SumaVectores.dev; Al compilar y ejecutar el proyecto se genera un ejecutable que podemos usar las veces que queramos.
+
+Se selecciona la cantidad de vectores que queremos sumar y se introducen las componentes de cada vector, de preferencia sin salir de los parametros de 0 a 500, dado que esta construido para abarcar solo 600pixeles * 600 pixeles.
+
+El ángulo esta calculado con respecto al eje x positivo y la magnitud esta limitada a expresar valores con solo 2 puntos decimales.
