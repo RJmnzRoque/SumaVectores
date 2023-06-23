@@ -8,9 +8,10 @@ Una persona maneja un automovil siguiendo este patron 10 km al sur, luego 4 km a
 
 ## Solución del problema
 
-Usando la calculadora podemos calcular el vector posición usando sus movimientos, interprentando asi su primer movimiento como el vector (0)i + (-10)j, el segundo vector como (4)i + (0)j y finalmente el tercer vector como (0)i + (15)j.
+Usando la calculadora podemos calcular el vector posición usando sus movimientos, interprentando asi su primer movimiento como el **vector (0)i + (-10)j**, el segundo vector como **(4)i + (0)j** y finalmente el tercer vector como **(0)i + (15)j**.
 
 Así que indicaremos que queremos sumar 3 vectores introduciremos las componentes en el orden siguiente:
+
 - Componente en x del vector 1: 0
 - Componente en y del vector 1: -10
 - Componente en x del vector 2: 4
@@ -19,5 +20,8 @@ Así que indicaremos que queremos sumar 3 vectores introduciremos las componente
 - Componente en y del vector 3: 15
 
 Dandonos como resultado el vector (4)i + (5)j con magnitud de 6.40 y dirección de 51.34 grados.
+
+  
+
 
 Este resultado nos indica que la avioneta deberá volar 6.4 km con un ángulo de 51.34 grados sobre el eje horizontal positivo, que en este caso seria el este.
